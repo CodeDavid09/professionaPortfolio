@@ -1,3 +1,4 @@
+<img width="1790" alt="Screen Shot 2021-12-15 at 4 02 58 PM" src="https://user-images.githubusercontent.com/91545451/146279548-49c3121c-669f-4d3a-a81e-7c9ec2386240.png">
 # professionaPortfolio
 
 For this assignment student is to update thier own Portfolio without being given starter code. This assignment will test student on skills learned. 
@@ -33,4 +34,4 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 portfolio demo link: https://codedavid09.github.io/professionaPortfolio/
-<img width="1790" alt="B6E73656-9DEA-4D05-B9EE-CDBED772A684" src="https://user-images.githubusercontent.com/91545451/146279466-d17a34aa-7b3e-4f5d-a0bd-c0fa9d875a68.png">
+
