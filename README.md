@@ -33,3 +33,4 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 portfolio demo link: https://codedavid09.github.io/professionaPortfolio/
+<img width="1790" alt="B6E73656-9DEA-4D05-B9EE-CDBED772A684" src="https://user-images.githubusercontent.com/91545451/146279466-d17a34aa-7b3e-4f5d-a0bd-c0fa9d875a68.png">
